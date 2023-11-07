@@ -1,3 +1,5 @@
+#DISCORD: _PAPAPEREZ
+
 # React + Aleo + Leo
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/AleoHQ/sdk/tree/testnet3/create-aleo-app/template-react)
